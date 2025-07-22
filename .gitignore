@@ -46,11 +46,6 @@ env/
 .env.local
 .env.*.local
 
-# Database
-*.db
-*.sqlite
-*.sqlite3
-
 # Logs
 *.log
 logs/
@@ -65,12 +60,6 @@ Thumbs.db
 *.h5
 *.ckpt
 models/
-
-# Data files
-data/
-*.csv
-*.json
-*.parquet
 
 # Embeddings and vectors
 *.npy
